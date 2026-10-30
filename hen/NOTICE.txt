@@ -1,0 +1,10 @@
+Bonk HEN 14.00 local HEN review candidate
+
+The Xlet validates local classes, metadata and HEN; waits for one X press;
+then calls the original Boot.exec directly with a scrubbed, result-gated
+command sequence. No HTTP server is needed. The Hx stage may write unknown
+kernel objects even on a failed pairing run. There is no automatic retry.
+After a failure, cold-reboot the console before any new attempt. A displayed
+Hx success report must be independently verified on the console.
+
+Credits: Kat (@avieah), Slopp (@slopp), and Pigeon (@daburningpigeon) on Discord
